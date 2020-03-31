@@ -31,10 +31,9 @@ body {
     border: 0 none;
     border-radius: 0px;
     box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
-    padding: 20px 30px;
+    padding: 20px 0;
     box-sizing: border-box;
-    width: 80%;
-    margin: 0 10%;
+
 
     /*stacking fieldsets above each other*/
     position: relative;
@@ -373,19 +372,7 @@ body {
       }
 
 
-      @media only screen(width: 500px){
-        #form fieldset {
-            
-            padding: 0;
-           
-            width: 100%;
-            margin: 0
 
-        }
-        .myresponsive{
-            width: 50px !important;
-        }
-      }
       
       
       
@@ -393,7 +380,7 @@ body {
       
       
       
-      
+      576
       
 
       
